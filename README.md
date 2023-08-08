@@ -4,9 +4,9 @@
 <p align="left">
   <img alt="" src="src/assets/readme-preview1.png" width="100%">
 </p>
-<div style="display:flex; gap: 2px">
-   <img alt="" src="src/assets/readme-preview2.png" width="50%">
-   <img alt="" src="src/assets/readme-preview3.png" width="50%">
+<div style="display:flex; flex-direction: row; gap: 5px; justify-content:center">
+   <img alt="" src="src/assets/readme-preview2.png" width="49%">
+   <img alt="" src="src/assets/readme-preview3.png" width="49%">
    
 </div>
 
